@@ -1,0 +1,11 @@
+payload:
+- PROCESS-NAME,zoom.us
+- DOMAIN-SUFFIX,zoom.us
+- DOMAIN-SUFFIX,skype.com
+# Discord
+- DOMAIN-SUFFIX,discord.co
+- DOMAIN-SUFFIX,discord.com
+- DOMAIN-SUFFIX,discord.gg
+- DOMAIN-SUFFIX,discord.media
+- DOMAIN-SUFFIX,discordapp.com
+- DOMAIN-SUFFIX,discordapp.net

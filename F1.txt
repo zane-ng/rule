@@ -1,0 +1,13 @@
+payload:
+  - '+.formula1.com'
+  - 'f1tv.formula1.com'
+  - 'ott-video-fer-cf.formula1.com'
+  - 'ott-video-cf.formula1.com'
+  - 'f1prodlive.akamaized.net'
+  - 'f1prodvod.akamaized.net'
+  - 'f1tv-api.formula1.com'
+
+
+
+
+
