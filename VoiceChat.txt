@@ -1,5 +1,4 @@
 payload:
-- PROCESS-NAME,zoom.us
 - DOMAIN-SUFFIX,zoom.us
 - DOMAIN-SUFFIX,skype.com
 # Discord
