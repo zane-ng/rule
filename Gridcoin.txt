@@ -1,0 +1,17 @@
+payload:
+# Gridcoin addnodes
+    - DOMAIN,addnode-us-central.cycy.me
+    - DOMAIN,ec2-3-81-39-58.compute-1.amazonaws.com
+    - DOMAIN,gridcoin.crypto.fans
+    - DOMAIN,gridcoin.ddns.net
+    - DOMAIN,london.grcnode.co.uk
+    - DOMAIN,seeds.gridcoin.ifoggz-network.xyz
+    - DOMAIN,seed.gridcoin.pl
+    - DOMAIN,www.grcpool.com
+    - DOMAIN,grc.leftist.eu
+    - DOMAIN,gridcoin.network
+    - DOMAIN,node.gridcoin.network
+    - DOMAIN,swe.tplinkdns.com
+    - DOMAIN,vancouver01.gridcoin.ifoggz-network.xyz
+    - DOMAIN,gridcoin.asia
+    - DOMAIN,gridcoins.org
