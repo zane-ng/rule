@@ -1,5 +1,8 @@
 payload:
 - DOMAIN-SUFFIX,zoom.us
+- DOMAIN-SUFFIX,zoom.com
+- DOMAIN-SUFFIX,zoomapp.cloud
+- DOMAIN-SUFFIX,zoomgov.com
 - DOMAIN-SUFFIX,skype.com
 # Discord
 - DOMAIN-SUFFIX,discord.co
