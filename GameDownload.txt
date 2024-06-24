@@ -8,8 +8,8 @@ payload:
     - DOMAIN,bnetproduct-a.akamaihd.net
     - DOMAIN,level3.blizzard.com
 # Nintendo
-#   - DOMAIN-SUFFIX,nintendo.com
-#   - DOMAIN-SUFFIX,nintendo.net
+    - DOMAIN-SUFFIX,nintendo.com
+    - DOMAIN-SUFFIX,nintendo.net
 # Steam
     - DOMAIN,steamcdn-a.akamaihd.net
     - DOMAIN-SUFFIX,cm.steampowered.com
